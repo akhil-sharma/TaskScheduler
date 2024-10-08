@@ -37,3 +37,6 @@ application.properties
 
 ### mysql docker ###
 docker-compose.yml
+
+### Database data ###
+db_data
